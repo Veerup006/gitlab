@@ -1,7 +1,7 @@
 Hello, Git
 Hello, Again
 trying something new
-Updating with some new info
+Updating with some new infofixing bug 123
 updating it from another location
 Sharing is cool in git
 feature1
