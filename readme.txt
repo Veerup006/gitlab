@@ -3,3 +3,4 @@ Hello, Again
 trying something new
 Updating with some new info
 updating it from another location
+Sharing is cool in git
