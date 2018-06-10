@@ -1,3 +1,4 @@
 f3 file added and some changes
 3rd commit
 6th commit fix
+some other changes fix3
